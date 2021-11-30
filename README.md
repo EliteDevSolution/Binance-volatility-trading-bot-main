@@ -33,7 +33,7 @@ Please checkout our wiki pages:
 ## Troubleshooting
 
 1. Read the [FAQ](FAQ.md)
-2. Open an issue / check us out on `#troubleshooting` at [Discord](https://discord.gg/buD27Dmvu3) 🚀 
+2. Open an issue / check us out on `#troubleshooting` at [Telegram](https://t.me/SuperCoder707) 🚀 
     - Do not spam, do not berate, we are all humans like you, this is an open source project, not a full time job. 
 
 ## 💥 Disclaimer
